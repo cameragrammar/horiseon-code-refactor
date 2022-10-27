@@ -67,7 +67,7 @@ p {
 
 .float-left {
     float: left;
-    margin-right: 25px;
+    margin-right: 10px;
 }
 
 .float-right {
@@ -128,7 +128,7 @@ p {
 
 .benefit-cost h3 {
     margin-bottom: 10px;
-    text-align: center;
+    text-align: left;
 }
 
 .benefit-lead img {
@@ -167,6 +167,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    position: relative;
 }
 
 .social-media-marketing {
@@ -176,6 +177,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    position: relative;
 }
 
 .search-engine-optimization img {
